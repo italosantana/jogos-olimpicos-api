@@ -12,7 +12,7 @@ INSERT INTO modalidade (id,nome) VALUES ('9', 'Judô');
 INSERT INTO modalidade (id,nome) VALUES ('10', 'Natação');
 
 --Local
-INSERT INTO local (id,nome) VALUES ('1', 'GINÁSIO NACIONAL PASTEL DE FLANGO');
+INSERT INTO local (id,nome) VALUES ('1', 'GINÁSIO NACIONAL PASTEL DE FRANGO');
 INSERT INTO local (id,nome) VALUES ('2', 'GINÁSIO DE TÓQUIO');
 INSERT INTO local (id,nome) VALUES ('3', 'GINÁSIO DE TÓQUIO MINI');
 INSERT INTO local (id,nome) VALUES ('4', 'ARENA TÓQUIO');
